@@ -1,0 +1,94 @@
+RPP
+0-20
+	sum 550   detect 390    recall 0.7090909090909091
+20-30
+	sum 1643   detect 1604    recall 0.9762629336579428
+30-40
+	sum 1120   detect 1115    recall 0.9955357142857143
+40-50
+	sum 773   detect 770    recall 0.9961190168175937
+50-60
+	sum 539   detect 537    recall 0.9962894248608535
+40-50
+	sum 1456   detect 1427    recall 0.9800824175824175
+sum
+	 6084   detect 5844    recall 0.960552268244576
+----------------class--------------------
+
+0-20
+	sum 550   detect 269    recall 0.4890909090909091
+20-30
+	sum 1643   detect 1497    recall 0.9111381618989653
+30-40
+	sum 1120   detect 1103    recall 0.9848214285714286
+40-Nan
+	sum 773   detect 766    recall 0.9909443725743855
+50-60
+	sum 539   detect 529    recall 0.9814471243042672
+40-50
+	sum 1456   detect 1406    recall 0.9656593406593407
+sum
+	 6084   detect 5570    recall 0.9155161078238001
+
+Res
+0-20
+	sum 550   detect 437    recall 0.7945454545454546
+20-30
+	sum 1643   detect 1604    recall 0.9762629336579428
+30-40
+	sum 1120   detect 1113    recall 0.99375
+40-50
+	sum 773   detect 768    recall 0.9935316946959897
+50-60
+	sum 539   detect 537    recall 0.9962894248608535
+40-50
+	sum 1456   detect 1426    recall 0.9793956043956044
+sum
+	 6084   detect 5885    recall 0.9672912557527942
+----------------class--------------------
+
+0-20
+	sum 550   detect 273    recall 0.49636363636363634
+20-30
+	sum 1643   detect 1438    recall 0.8752282410225197
+30-40
+	sum 1120   detect 1093    recall 0.9758928571428571
+40-Nan
+	sum 773   detect 755    recall 0.9767141009055628
+50-60
+	sum 539   detect 526    recall 0.9758812615955473
+40-50
+	sum 1456   detect 1400    recall 0.9615384615384616
+sum
+	 6084   detect 5485    recall 0.9015450361604208
+mby4
+0-20
+	sum 550   detect 405    recall 0.7363636363636363
+20-30
+	sum 1643   detect 1608    recall 0.9786975045648204
+30-40
+	sum 1120   detect 1116    recall 0.9964285714285714
+40-50
+	sum 773   detect 766    recall 0.9909443725743855
+50-60
+	sum 539   detect 538    recall 0.9981447124304267
+40-50
+	sum 1456   detect 1432    recall 0.9835164835164835
+sum
+	 6084   detect 5865    recall 0.9640039447731755
+----------------class--------------------
+
+0-20
+	sum 550   detect 331    recall 0.6018181818181818
+20-30
+	sum 1643   detect 1535    recall 0.9342665855143031
+30-40
+	sum 1120   detect 1099    recall 0.98125
+40-Nan
+	sum 773   detect 759    recall 0.981888745148771
+50-60
+	sum 539   detect 532    recall 0.987012987012987
+40-50
+	sum 1456   detect 1420    recall 0.9752747252747253
+sum
+	 6084   detect 5676    recall 0.9329388560157791
