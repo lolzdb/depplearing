@@ -1,0 +1,480 @@
+resnetc
+0-20
+	sum 108   detect 61    recall 0.5648148148148148
+20-30
+	sum 436   detect 389    recall 0.8922018348623854
+30-40
+	sum 309   detect 308    recall 0.9967637540453075
+40-50
+	sum 221   detect 219    recall 0.9909502262443439
+50-60
+	sum 178   detect 177    recall 0.9943820224719101
+40-50
+	sum 507   detect 506    recall 0.9980276134122288
+sum
+	 1760   detect 1660    recall 0.9431818181818182
+----------------class--------------------
+
+0-20
+	sum 108   detect 51    recall 0.4722222222222222
+20-30
+	sum 436   detect 383    recall 0.8784403669724771
+30-40
+	sum 309   detect 307    recall 0.9935275080906149
+40-Nan
+	sum 221   detect 218    recall 0.9864253393665159
+50-60
+	sum 178   detect 177    recall 0.9943820224719101
+40-50
+	sum 507   detect 505    recall 0.9960552268244576
+sum
+	 1760   detect 1641    recall 0.9323863636363636
+
+resnetcc
+0-20
+	sum 108   detect 73    recall 0.6759259259259259
+20-30
+	sum 436   detect 425    recall 0.9747706422018348
+30-40
+	sum 309   detect 308    recall 0.9967637540453075
+40-50
+	sum 221   detect 219    recall 0.9909502262443439
+50-60
+	sum 178   detect 178    recall 1.0
+40-50
+	sum 507   detect 504    recall 0.9940828402366864
+sum
+	 1760   detect 1707    recall 0.9698863636363636
+----------------class--------------------
+
+0-20
+	sum 108   detect 64    recall 0.5925925925925926
+20-30
+	sum 436   detect 412    recall 0.944954128440367
+30-40
+	sum 309   detect 306    recall 0.9902912621359223
+40-Nan
+	sum 221   detect 219    recall 0.9909502262443439
+50-60
+	sum 178   detect 177    recall 0.9943820224719101
+40-50
+	sum 507   detect 503    recall 0.9921104536489151
+sum
+	 1760   detect 1681    recall 0.9551136363636363
+
+
+mobf
+0-20
+	sum 108   detect 86    recall 0.7962962962962963
+20-30
+	sum 436   detect 432    recall 0.9908256880733946
+30-40
+	sum 309   detect 308    recall 0.9967637540453075
+40-50
+	sum 221   detect 216    recall 0.9773755656108597
+50-60
+	sum 178   detect 177    recall 0.9943820224719101
+40-50
+	sum 507   detect 497    recall 0.980276134122288
+sum
+	 1760   detect 1716    recall 0.975
+----------------class--------------------
+
+0-20
+	sum 108   detect 75    recall 0.6944444444444444
+20-30
+	sum 436   detect 415    recall 0.9518348623853211
+30-40
+	sum 309   detect 304    recall 0.9838187702265372
+40-Nan
+	sum 221   detect 212    recall 0.9592760180995475
+50-60
+	sum 178   detect 177    recall 0.9943820224719101
+40-50
+	sum 507   detect 491    recall 0.9684418145956607
+sum
+	 1760   detect 1674    recall 0.9511363636363637
+
+MOBY2
+0-20
+	sum 108   detect 89    recall 0.8240740740740741
+20-30
+	sum 436   detect 432    recall 0.9908256880733946
+30-40
+	sum 309   detect 307    recall 0.9935275080906149
+40-50
+	sum 221   detect 220    recall 0.995475113122172
+50-60
+	sum 178   detect 178    recall 1.0
+40-50
+	sum 507   detect 503    recall 0.9921104536489151
+sum
+	 1760   detect 1729    recall 0.9823863636363637
+----------------class--------------------
+
+0-20
+	sum 108   detect 78    recall 0.7222222222222222
+20-30
+	sum 436   detect 426    recall 0.9770642201834863
+30-40
+	sum 309   detect 306    recall 0.9902912621359223
+40-Nan
+	sum 221   detect 218    recall 0.9864253393665159
+50-60
+	sum 178   detect 178    recall 1.0
+40-50
+	sum 507   detect 500    recall 0.9861932938856016
+sum
+	 1760   detect 1706    recall 0.9693181818181819
+
+moby3
+0-20
+	sum 108   detect 90    recall 0.8333333333333334
+20-30
+	sum 436   detect 431    recall 0.9885321100917431
+30-40
+	sum 309   detect 308    recall 0.9967637540453075
+40-50
+	sum 221   detect 218    recall 0.9864253393665159
+50-60
+	sum 178   detect 178    recall 1.0
+40-50
+	sum 507   detect 500    recall 0.9861932938856016
+sum
+	 1760   detect 1725    recall 0.9801136363636364
+----------------class--------------------
+
+0-20
+	sum 108   detect 75    recall 0.6944444444444444
+20-30
+	sum 436   detect 418    recall 0.9587155963302753
+30-40
+	sum 309   detect 306    recall 0.9902912621359223
+40-Nan
+	sum 221   detect 217    recall 0.9819004524886877
+50-60
+	sum 178   detect 176    recall 0.9887640449438202
+40-50
+	sum 507   detect 497    recall 0.980276134122288
+sum
+	 1760   detect 1689    recall 0.959659090909091
+
+mby4
+0-20
+	sum 108   detect 77    recall 0.7129629629629629
+20-30
+	sum 436   detect 427    recall 0.9793577981651376
+30-40
+	sum 309   detect 307    recall 0.9935275080906149
+40-50
+	sum 221   detect 219    recall 0.9909502262443439
+50-60
+	sum 178   detect 178    recall 1.0
+40-50
+	sum 507   detect 504    recall 0.9940828402366864
+sum
+	 1760   detect 1712    recall 0.9727272727272728
+----------------class--------------------
+
+0-20
+	sum 108   detect 71    recall 0.6574074074074074
+20-30
+	sum 436   detect 419    recall 0.9610091743119266
+30-40
+	sum 309   detect 306    recall 0.9902912621359223
+40-Nan
+	sum 221   detect 219    recall 0.9909502262443439
+50-60
+	sum 178   detect 177    recall 0.9943820224719101
+40-50
+	sum 507   detect 499    recall 0.9842209072978304
+sum
+	 1760   detect 1691    recall 0.9607954545454546
+mby
+0-20
+	sum 108   detect 80    recall 0.7407407407407407
+20-30
+	sum 436   detect 428    recall 0.981651376146789
+30-40
+	sum 309   detect 308    recall 0.9967637540453075
+40-50
+	sum 221   detect 221    recall 1.0
+50-60
+	sum 178   detect 177    recall 0.9943820224719101
+40-50
+	sum 507   detect 502    recall 0.9901380670611439
+sum
+	 1760   detect 1716    recall 0.975
+----------------class--------------------
+
+0-20
+	sum 108   detect 74    recall 0.6851851851851852
+20-30
+	sum 436   detect 418    recall 0.9587155963302753
+30-40
+	sum 309   detect 306    recall 0.9902912621359223
+40-Nan
+	sum 221   detect 219    recall 0.9909502262443439
+50-60
+	sum 178   detect 176    recall 0.9887640449438202
+40-50
+	sum 507   detect 502    recall 0.9901380670611439
+sum
+	 1760   detect 1695    recall 0.9630681818181818
+resnetc
+0-20
+	sum 108   detect 61    recall 0.5648148148148148
+20-30
+	sum 436   detect 395    recall 0.9059633027522935
+30-40
+	sum 309   detect 308    recall 0.9967637540453075
+40-50
+	sum 221   detect 220    recall 0.995475113122172
+50-60
+	sum 178   detect 177    recall 0.9943820224719101
+40-50
+	sum 507   detect 507    recall 1.0
+sum
+	 1760   detect 1668    recall 0.9477272727272728
+----------------class--------------------
+
+0-20
+	sum 108   detect 52    recall 0.48148148148148145
+20-30
+	sum 436   detect 386    recall 0.8853211009174312
+30-40
+	sum 309   detect 308    recall 0.9967637540453075
+40-Nan
+	sum 221   detect 218    recall 0.9864253393665159
+50-60
+	sum 178   detect 177    recall 0.9943820224719101
+40-50
+	sum 507   detect 505    recall 0.9960552268244576
+sum
+	 1760   detect 1646    recall 0.9352272727272727
+
+resnetcc
+0-20
+	sum 108   detect 71    recall 0.6574074074074074
+20-30
+	sum 436   detect 426    recall 0.9770642201834863
+30-40
+	sum 309   detect 308    recall 0.9967637540453075
+40-50
+	sum 221   detect 219    recall 0.9909502262443439
+50-60
+	sum 178   detect 178    recall 1.0
+40-50
+	sum 507   detect 503    recall 0.9921104536489151
+sum
+	 1760   detect 1705    recall 0.96875
+----------------class--------------------
+
+0-20
+	sum 108   detect 61    recall 0.5648148148148148
+20-30
+	sum 436   detect 412    recall 0.944954128440367
+30-40
+	sum 309   detect 306    recall 0.9902912621359223
+40-Nan
+	sum 221   detect 219    recall 0.9909502262443439
+50-60
+	sum 178   detect 177    recall 0.9943820224719101
+40-50
+	sum 507   detect 502    recall 0.9901380670611439
+sum
+	 1760   detect 1677    recall 0.9528409090909091
+
+MBY2D
+0-20
+	sum 108   detect 85    recall 0.7870370370370371
+20-30
+	sum 436   detect 430    recall 0.9862385321100917
+30-40
+	sum 309   detect 308    recall 0.9967637540453075
+40-50
+	sum 221   detect 219    recall 0.9909502262443439
+50-60
+	sum 178   detect 178    recall 1.0
+40-50
+	sum 507   detect 502    recall 0.9901380670611439
+sum
+	 1760   detect 1723    recall 0.9789772727272728
+----------------class--------------------
+
+0-20
+	sum 108   detect 63    recall 0.5833333333333334
+20-30
+	sum 436   detect 411    recall 0.9426605504587156
+30-40
+	sum 309   detect 304    recall 0.9838187702265372
+40-Nan
+	sum 221   detect 218    recall 0.9864253393665159
+50-60
+	sum 178   detect 177    recall 0.9943820224719101
+40-50
+	sum 507   detect 499    recall 0.9842209072978304
+sum
+	 1760   detect 1672    recall 0.95
+
+MBYD
+0-20
+	sum 108   detect 77    recall 0.7129629629629629
+20-30
+	sum 436   detect 388    recall 0.8899082568807339
+30-40
+	sum 309   detect 261    recall 0.8446601941747572
+40-50
+	sum 221   detect 190    recall 0.8597285067873304
+50-60
+	sum 178   detect 157    recall 0.8820224719101124
+40-50
+	sum 507   detect 439    recall 0.8658777120315582
+sum
+	 1760   detect 1512    recall 0.8590909090909091
+----------------class--------------------
+
+0-20
+	sum 108   detect 66    recall 0.6111111111111112
+20-30
+	sum 436   detect 378    recall 0.8669724770642202
+30-40
+	sum 309   detect 259    recall 0.8381877022653722
+40-Nan
+	sum 221   detect 193    recall 0.8733031674208145
+50-60
+	sum 178   detect 157    recall 0.8820224719101124
+40-50
+	sum 507   detect 438    recall 0.863905325443787
+sum
+	 1760   detect 1491    recall 0.8471590909090909
+
+MBY2d
+0-20
+	sum 108   detect 84    recall 0.7777777777777778
+20-30
+	sum 436   detect 430    recall 0.9862385321100917
+30-40
+	sum 309   detect 308    recall 0.9967637540453075
+40-50
+	sum 221   detect 221    recall 1.0
+50-60
+	sum 178   detect 177    recall 0.9943820224719101
+40-50
+	sum 507   detect 504    recall 0.9940828402366864
+sum
+	 1760   detect 1724    recall 0.9795454545454545
+----------------class--------------------
+
+0-20
+	sum 108   detect 76    recall 0.7037037037037037
+20-30
+	sum 436   detect 426    recall 0.9770642201834863
+30-40
+	sum 309   detect 307    recall 0.9935275080906149
+40-Nan
+	sum 221   detect 219    recall 0.9909502262443439
+50-60
+	sum 178   detect 177    recall 0.9943820224719101
+40-50
+	sum 507   detect 499    recall 0.9842209072978304
+sum
+	 1760   detect 1704    recall 0.9681818181818181
+
+MOBYDB
+0-20
+	sum 108   detect 80    recall 0.7407407407407407
+20-30
+	sum 436   detect 431    recall 0.9885321100917431
+30-40
+	sum 309   detect 308    recall 0.9967637540453075
+40-50
+	sum 221   detect 219    recall 0.9909502262443439
+50-60
+	sum 178   detect 178    recall 1.0
+40-50
+	sum 507   detect 501    recall 0.9881656804733728
+sum
+	 1760   detect 1717    recall 0.9755681818181818
+----------------class--------------------
+
+0-20
+	sum 108   detect 69    recall 0.6388888888888888
+20-30
+	sum 436   detect 421    recall 0.9655963302752294
+30-40
+	sum 309   detect 306    recall 0.9902912621359223
+40-Nan
+	sum 221   detect 218    recall 0.9864253393665159
+50-60
+	sum 178   detect 178    recall 1.0
+40-50
+	sum 507   detect 501    recall 0.9881656804733728
+sum
+	 1760   detect 1693    recall 0.9619318181818182
+
+MBY2D
+0-20
+	sum 108   detect 85    recall 0.7870370370370371
+20-30
+	sum 436   detect 430    recall 0.9862385321100917
+30-40
+	sum 309   detect 308    recall 0.9967637540453075
+40-50
+	sum 221   detect 219    recall 0.9909502262443439
+50-60
+	sum 178   detect 178    recall 1.0
+40-50
+	sum 507   detect 502    recall 0.9901380670611439
+sum
+	 1760   detect 1723    recall 0.9789772727272728
+----------------class--------------------
+
+0-20
+	sum 108   detect 63    recall 0.5833333333333334
+20-30
+	sum 436   detect 411    recall 0.9426605504587156
+30-40
+	sum 309   detect 304    recall 0.9838187702265372
+40-Nan
+	sum 221   detect 218    recall 0.9864253393665159
+50-60
+	sum 178   detect 177    recall 0.9943820224719101
+40-50
+	sum 507   detect 499    recall 0.9842209072978304
+sum
+	 1760   detect 1672    recall 0.95
+
+res6
+0-20
+	sum 108   detect 79    recall 0.7314814814814815
+20-30
+	sum 436   detect 429    recall 0.9839449541284404
+30-40
+	sum 309   detect 308    recall 0.9967637540453075
+40-50
+	sum 221   detect 219    recall 0.9909502262443439
+50-60
+	sum 178   detect 178    recall 1.0
+40-50
+	sum 507   detect 504    recall 0.9940828402366864
+sum
+	 1760   detect 1717    recall 0.9755681818181818
+----------------class--------------------
+
+0-20
+	sum 108   detect 62    recall 0.5740740740740741
+20-30
+	sum 436   detect 417    recall 0.9564220183486238
+30-40
+	sum 309   detect 305    recall 0.9870550161812298
+40-Nan
+	sum 221   detect 219    recall 0.9909502262443439
+50-60
+	sum 178   detect 178    recall 1.0
+40-50
+	sum 507   detect 502    recall 0.9901380670611439
+sum
+	 1760   detect 1683    recall 0.95625
+
+
